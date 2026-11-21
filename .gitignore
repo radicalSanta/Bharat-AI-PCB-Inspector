@@ -16,3 +16,10 @@
 local.properties
 .env
 debug.keystore
+
+# Local signing credentials
+my-upload-key.jks
+
+# Android/Gradle build outputs
+/android/build/
+/android/app/build/
