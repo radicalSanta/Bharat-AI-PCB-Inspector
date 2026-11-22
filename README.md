@@ -1,6 +1,6 @@
 # Bharat AI PCB Inspector
 
-**On-device optical inspection for PCB assemblies and transistor components.**
+**On-device optical inspection for PCB assemblies and other electronic components.**
 
 Bharat AI PCB Inspector is an Android application that combines computer vision, deterministic screening logic, and an optional on-device language model to assist with visual PCB inspection. It is designed around a strict separation of responsibilities: computer-vision models produce findings, a deterministic policy evaluates those findings, and the language model provides explanatory advisory context.
 
