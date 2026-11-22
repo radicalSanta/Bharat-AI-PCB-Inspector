@@ -35,7 +35,7 @@ Bharat AI PCB Inspector integrates multiple AI models with a deterministic scree
 
 | Results | AI Advisory |
 |---|---|
-| ![Results](screenshots/yolo_results.jpeg) | ![Advisory](screenshots/yolo_advisory.jpeg) |
+| ![Results](screenshots/yolo_result.jpeg) | ![Advisory](screenshots/yolo_advisory.jpeg) |
 
 | History | Settings |
 |---|---|
